@@ -31,7 +31,7 @@ Este projeto
 ### Passo a Passo
 
 <p align="center">
- <img src="https://img.shields.io/badge/github-repo-blue?logo=github">
+ <img src="https://img.shields.io/badge/github-repo-blue?logo=https://github.com/DS-RFTA/calculadora">
 </p>
 
 
