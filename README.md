@@ -4,13 +4,14 @@
 </p>
 
 # Calculadora
+
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 Este projeto 
 
 
 ![Html](https://img.shields.io/badge/html-blue?style=for-the-badge&logo=html)
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge)
 
 
@@ -29,14 +30,17 @@ Este projeto
 
 ### Passo a Passo
 
+https://img.shields.io/badge/github-repo-blue?logo=github
+
 1. **Clone este repositório:**
 
    ```bash
    git clone https://github.com/DS-RFTA/calculadora
    ```
-https://img.shields.io/badge/github-repo-blue?logo=[github](https://github.com/DS-RFTA/calculadora)
+
 
 2. **Acesse a pasta do projeto:**
+
    ```bash
    cd SEU_REPOSITORIO
    ```
