@@ -10,8 +10,8 @@
 Este projeto 
 
 
-![Html](https://img.shields.io/badge/html-blue?style=for-the-badge&logo=html)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS)
+![Html](https://img.shields.io/badge/html-red?style=for-the-badge&logo=html)
+![CSS](https://img.shields.io/badge/CSS-purple?style=for-the-badge&logo=CSS)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge)
 
 
@@ -30,7 +30,11 @@ Este projeto
 
 ### Passo a Passo
 
-https://img.shields.io/badge/github-repo-blue?logo=github
+<p align="center">
+ <img src="https://img.shields.io/badge/github-repo-blue?logo=github">
+</p>
+
+
 
 1. **Clone este repositório:**
 
